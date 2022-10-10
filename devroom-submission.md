@@ -40,4 +40,4 @@ To be filled in while submitting the proposal (GDPR;)
 
 # Additional information
 ## Relevant URLs
-https://github.com/embeddeddevroom/fosdem-2022
+https://github.com/embeddeddevroom/fosdem-2023

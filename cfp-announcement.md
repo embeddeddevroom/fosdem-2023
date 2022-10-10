@@ -1,11 +1,11 @@
 This email is a Call For Participation in the Embedded, Mobile and
-Automotive Devroom at FOSDEM 2022.
+Automotive Devroom at FOSDEM 2023.
 
 
-Devroom date: 5th & 6th February in FOSDEM Online Venue
-CFP deadline: Friday, 17th December 2021.
+Devroom date: 4th February in Brussels, Belgium
+CFP deadline: Friday, 2nd December 2022.
 
-Final speaker confirmation on Friday, December 31th 2021.
+Final speaker confirmation on Friday, December 9th 2022.
 
 
 CFP Introduction
@@ -21,6 +21,13 @@ This year FOSDEM is going to be an online event. All talks will need
 to be prerecorded and shared with FOSDEM organizers.
 Please only propose a talk that you're really able and willing to share.
 
+This year we welcome talks that are either:
+* 10 min (short introduction of project/topic)
+* 25 min (normal slot)
+* 50 min (extraordinary slot for a topic that need a deeper explanation)
+
+Obviously slot availability is inversely proportional to the duration.
+
 Topics Sought
 ------------------------
 
@@ -35,11 +42,11 @@ definition of "embedded" is elastic.
 CFP Schedule And Submission Details
 -----------------------------------------------------------
 
-Please submit proposals no later than the 17th of December.
+Please submit proposals no later than the 2nd of December.
 
-Please use the following URL to submit your talk to FOSDEM 2022
+Please use the following URL to submit your talk to FOSDEM 2023
 
-https://penta.fosdem.org/submission/FOSDEM22
+https://penta.fosdem.org/submission/FOSDEM23
 
 
 and follow the following rules:
@@ -60,13 +67,10 @@ and follow the following rules:
        of any length you wish, but in both fields, please be concise, but
        clear and descriptive.
 
-     * Indicate whether you seek a 25, or 50 minute slot.
+     * Indicate whether you seek a 10, 25, or 50 minute slot.
 
      * Use the "Links" sub-area to your past work in the field you'd like
        to share.
-
-     * Also in the notes field please indicate your timezone so that we can
-       schedule a convenient timeslot for you.
 
      * Last but not least, make sure you have up to date contact info.
 
@@ -78,5 +82,5 @@ Subscribe here: https://lists.fosdem.org/listinfo/embedded-devroom
 About the devroom organizers
 --------------------------------------------------
 
-The co-organizers of the FOSDEM 2022 Embedded devroom are
+The co-organizers of the FOSDEM 2023 Embedded devroom are
 (in alphabetical order by surname):
