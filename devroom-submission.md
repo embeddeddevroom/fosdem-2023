@@ -30,10 +30,6 @@ The Embedded, Mobile and Automotive Devroom has been present for many
 years at FOSDEM, each year gathering a significant audience, showing
 the interest of the open-source community in this topic.
 
-## Preferred slot
-
-Both days (2x half a day)
-
 # Contact information
 
 To be filled in while submitting the proposal (GDPR;)

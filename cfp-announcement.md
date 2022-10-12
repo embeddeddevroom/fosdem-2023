@@ -17,16 +17,10 @@ launching rockets, messing with your phone or automating your toaster,
 small devices, embedded systems, and automatons are everywhere
 Join in and tell the world about your project!
 
-This year FOSDEM is going to be an online event. All talks will need
-to be prerecorded and shared with FOSDEM organizers.
-Please only propose a talk that you're really able and willing to share.
-
 This year we welcome talks that are either:
 * 10 min (short introduction of project/topic)
 * 25 min (normal slot)
-* 50 min (extraordinary slot for a topic that need a deeper explanation)
-
-Obviously slot availability is inversely proportional to the duration.
+* 50 min (extraordinary slot for a topic that needs a deeper explanation)
 
 Topics Sought
 ------------------------
