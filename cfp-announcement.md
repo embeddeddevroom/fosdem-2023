@@ -3,9 +3,9 @@ Automotive Devroom at FOSDEM 2023.
 
 
 Devroom date: 4th February in Brussels, Belgium
-CFP deadline: Friday, 2nd December 2022.
+CFP deadline: Friday, 9th December 2022.
 
-Final speaker confirmation on Friday, December 9th 2022.
+Final speaker confirmation on Friday, December 16th 2022.
 
 
 CFP Introduction
@@ -36,7 +36,7 @@ definition of "embedded" is elastic.
 CFP Schedule And Submission Details
 -----------------------------------------------------------
 
-Please submit proposals no later than the 2nd of December.
+Please submit proposals no later than the 9th of December.
 
 Please use the following URL to submit your talk to FOSDEM 2023
 
